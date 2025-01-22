@@ -1,6 +1,6 @@
-### **greetings visitor!**
+### **greetings, visitor!**
 
-<img src="https://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif"> ``Olá! Eu me chamo Samita, sou estudante de Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada por um profundo interesse em tecnologia e design. Estou explorando minhas habilidades em Front-end, tendo um grande interesse em UX/UI design. Atualmente, estou aprimorando minhas habilidades para criar experiências digitais únicas e memoráveis! ``
+<img src="https://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif" width="200" height="200"> ``Olá! Eu me chamo Samita, sou estudante de Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada por um profundo interesse em tecnologia e design. Estou explorando minhas habilidades em Front-end, tendo um grande interesse em UX/UI design. Atualmente, estou aprimorando minhas habilidades para criar experiências digitais únicas e memoráveis! ``
 #
 
 ### desenvolvendo habilidades em: 
